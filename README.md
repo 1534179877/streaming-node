@@ -4,9 +4,6 @@
 
 基于node.js为前端项目vue-danmu提供服务
 
-### vue前端地址
-
-https://gitee.com/bestLuck/vue-danmu
 
 ### 项目所使用的框架及插件:
  express 4.17.1
